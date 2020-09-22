@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/weather">
+        <file>ico/cloudy.png</file>
+        <file>ico/overcast.png</file>
+        <file>ico/rain.png</file>
+        <file>ico/snow.png</file>
+        <file>ico/sunny.png</file>
+        <file>ico/windy.png</file>
+    </qresource>
+</RCC>
